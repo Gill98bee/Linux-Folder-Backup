@@ -7,6 +7,7 @@
 #############################
 
 # WARNING! This simple script does not come with any guarantees and I will not held responsible to any damage. 
+
 import os
 import zipfile
 
